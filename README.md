@@ -68,3 +68,6 @@ GPT-4 performs better than ChatGPT, our `GPT4_requests` method is not publicly a
 ![chatgpt](./images/gpt-4.png)
 
 Finally, you can click the download button to save all modification suggestions and polishing content to your local location.
+
+# Statement
+ChatGPT and GPT-4 bring us convenience, but we also need to be vigilant about the leakage of personal sensitive information. We declare that we are not responsible for any security or privacy issues that may arise during the use of our GitHub repository to create applications.
