@@ -50,6 +50,7 @@ python cli.py
 ```bash
 python app.py
 ```
+![chatgpt](./images/webpage.png)
 
 # Effect
 ## ChatGPT
